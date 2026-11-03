@@ -20,10 +20,6 @@
     <img src="https://img.shields.io/badge/Email-Contact-047857?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="./assets/profile.jpg" width="180" alt="Purushotham Reddy"/>
-</p>
 ---
 
 ## 💫 About Me
