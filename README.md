@@ -21,6 +21,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="./assets/profile.jpg" width="180" alt="Purushotham Reddy"/>
+</p>
 ---
 
 ## 💫 About Me
